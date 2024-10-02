@@ -1,0 +1,11 @@
+
+<dict>
+  <key>organization</key>
+  <string>{your_organization_name}</string>
+  <key>auth_client_id</key>
+  <string>{your_client_id_value}</string>
+  <key>auth_client_secret</key>
+  <string>{your_client_secret_value}</string>
+  <key>warp_connector_token</key>
+  <string>{your_warp_connector_token}</string>
+</dict>
